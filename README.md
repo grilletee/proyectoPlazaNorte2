@@ -1,2 +1,3 @@
 # proyectoPlazaNorte2
-asdsafsdf
+Estructura:
+ -
